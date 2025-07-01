@@ -61,7 +61,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joswinshaju04&" alt="joswinshaju04" /></p>
 
 
-[![Tims Tittus github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joswinshaju04&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/joswinshaju04/github-readme-activity-graph)
+[![Joswin Shaju github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joswinshaju04&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/joswinshaju04/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="90" width="1050">
 
