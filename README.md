@@ -14,7 +14,7 @@
 - 👨🏼‍💻 LinkedIn [https://www.linkedin.com/in/joswin-shaju-b90b46290](https://www.linkedin.com/in/joswin-shaju-9892a5328)
 
 
-- 📫 How to reach me **joswinsj007@gmail.com**
+- 📫 How to reach me **joswinshaju2028@cs.sjcetpalai.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
